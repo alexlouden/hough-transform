@@ -1,6 +1,6 @@
 # Hough transform exploration
 
-A jupyter notebook that implements the Hough transform from scratch, and allows exporting the Hough accumulator image.
+A [jupyter notebook](./data/Hough.ipynb) that implements the Hough transform from scratch, and allows exporting the Hough accumulator image.
 
 For example, if we take the following input image:
 
