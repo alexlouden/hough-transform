@@ -4,7 +4,7 @@ A [jupyter notebook](./data/Hough.ipynb) that implements the Hough transform fro
 
 For example, if we take the following input image:
 
-![Input image](./data/canberra.png)
+![Input image](./data/cybertruck.png)
 
 We perform a gaussian blur and Canny edge detection to find the edges:
 
